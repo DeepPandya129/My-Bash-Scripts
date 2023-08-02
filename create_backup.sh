@@ -4,7 +4,7 @@
 # Date : 01/08/2023
 # Purpose : This script will show all the directories and files present in current directory 
 
-# RUN : ./backup_script.sh /mnt/d/linux /mnt/d/temp_bash
+# RUN : ./backup_script.sh (source) /mnt/d/linux /mnt/d/temp_bash (Dest)
 
 function display_usage {
     echo Usage:
